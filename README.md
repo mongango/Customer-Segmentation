@@ -1,2 +1,2 @@
-# Customer-Segmentation
-It consists of the different algorithms used to segment customers. 
+# Exploratory-Data-Analysis-and-Unsupervised-Learning
+It consists of projects where exploratory data analysis, clustering algorithms, and Dimensionality Reduction Techniques were used. 
